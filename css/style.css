@@ -20,11 +20,13 @@ html {
   position: relative;
   min-height: 100%;
 }
+
 body {
   /* Margin bottom by footer height */
-  margin-bottom: 60px;
+  margin-bottom: 215px;
 }
-.footer {
+
+.sticky-footer {
   position: absolute;
   bottom: 0;
   width: 100%;
